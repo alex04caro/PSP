@@ -1,0 +1,2 @@
+public enum Regalos {ANILLO,RELOJ,PISTOLA,CARAMELO,MOVIL,ROSA}
+
